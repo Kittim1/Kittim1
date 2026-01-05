@@ -4,6 +4,8 @@ I'm **Kittim Ignalig**, a creative developer who loves blending **code, design, 
 I enjoy building engaging web experiences and experimenting with visuals, motion, and ideas.
 
 ---
+![Local Time](https://img.shields.io/badge/dynamic/json?color=0a0a0a&label=🕒%20PH%20Time&query=datetime&url=https://worldtimeapi.org/api/timezone/Asia/Manila)
+
 
 ## 🚀 Expertise
 
