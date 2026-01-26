@@ -40,7 +40,7 @@ I enjoy working on projects that sit between **logic and creativity**, where cod
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://intagram.com/timoyyyyy)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://intagram.com/timoyyyyy_)
 [![Facebook](https://img.shields.io/badge/-Facebook-0a0a0a?&logo=Facebook)](https://web.facebook.com/Kittim.Ignalig1)
 
 
