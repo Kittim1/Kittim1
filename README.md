@@ -32,6 +32,10 @@ I enjoy working on projects that sit between **logic and creativity**, where cod
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%23)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+
 
 
 
