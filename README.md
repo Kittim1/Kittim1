@@ -26,11 +26,13 @@ I enjoy working on projects that sit between **logic and creativity**, where cod
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![p5.js](https://img.shields.io/badge/-p5.js-000)
 ![Three.js](https://img.shields.io/badge/-Three.js-000)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
 
 
 ---
